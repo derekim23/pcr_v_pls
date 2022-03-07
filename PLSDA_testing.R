@@ -1,6 +1,7 @@
-#This script involves four main steps:
+#This script involves five main steps:
 #Stratified k-fold data split to ensure label balance across folds.
 #Nested x-validation for optimizing PLSDA.
+#Emulating LASSO stability selection for variable selection.
 #Testing the optimized model.
 #And finally visualizing some outputs of the model.
 
